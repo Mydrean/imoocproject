@@ -1,0 +1,141 @@
+{
+	"recommend":
+		[
+		 {
+			 "src":"./data/images/wenda1.jpg",
+			 "type":"来自AngularJS Html/CSS Javascript",
+			 "answernum":"156个回答",
+			 "quesion":"【有奖问答】与大咖交流前端JS与框架开发，免费赢取前端图书（11.28-12.4）",
+			 "result":"最赞的回答",
+			 "answer":"我觉得不管学习哪门语言，到后面总还是要学习一下规范，程序员的素养必不可少啊！！"
+		 },
+		 {
+			 "src":"./data/images/wenda2.jpg",
+			 "type":"来自C++ iOS JAVA",
+			 "answernum":"335个回答",
+			 "quesion":"各位猿或者媛，一般几点睡啊。有时忍住头痛看java到很晚，第二天就头痛一整天",
+			 "result":"已采纳回答",
+			 "answer":"没有什么事情是需要熬夜完成的！"
+		 },
+		 {
+			 "src":"./data/images/wenda3.jpg",
+			 "type":"来自JAVA",
+			 "answernum":"272个回答",
+			 "quesion":"java好学吗.??pp",
+			 "result":"最赞的回答",
+			 "answer":"挺好的！"
+		 },
+		 {
+			 "src":"./data/images/wenda4.jpg",
+			 "type":"来自C PHP Python",
+			 "answernum":"493个回答",
+			 "quesion":"话说，大家想编程的最初初衷是什么",
+			 "result":"已采纳回答",
+			 "answer":"说兴趣的话有没有人打我...."
+		 },
+		 {
+			 "src":"./data/images/wenda3.jpg",
+			 "type":"来自JAVA 算法与数据结构",
+			 "answernum":"2个回答",
+			 "quesion":"自己写的链表debug报空指针,直接运行正常。",
+			 "result":"已采纳回答",
+			 "answer":"调试时IDE自动计算变量引用导致的， prev == null 那么prev.next 肯定是空指针"
+		 },
+		 {
+			 "src":"./data/images/wenda5.jpg",
+			 "type":"来自Android JAVA PHP",
+			 "answernum":"148个回答",
+			 "quesion":"为啥要做程序员，初心是什么？",
+			 "result":"已采纳回答",
+			 "answer":"一切不以赚钱为目的的工作都是在浪费生命！！"
+		 },
+		 {
+			 "src":"./data/images/wenda4.jpg",
+			 "type":"来自C JavaScript Python",
+			 "answernum":"52个回答",
+			 "quesion":"遇见好答案---Python编程问答专场",
+			 "result":"最赞的回答",
+			 "answer":"@刘硕老师 我现在在做一些简单的项目，一般用的就是python，本来以前c++用的比较多"
+		 },
+		 {
+			 "src":"./data/images/wenda5.jpg",
+			 "type":"来自Android AngularJS JavaScript",
+			 "answernum":"104个回答",
+			 "quesion":"我长得丑，我适合学编程吗？",
+			 "result":"已采纳回答",
+			 "answer":"长得丑才编程，不丑靠脸吃饭就行了，还编什么程序"
+		 },
+		 {
+			 "src":"./data/images/wenda3.jpg",
+			 "type":"来自JAVA JavaScript Linux",
+			 "answernum":"156个回答",
+			 "quesion":"程序员说的最多的一句话是什么？",
+			 "result":"最赞的回答",
+			 "answer":"Hello World！"
+		 },
+		 {
+			 "src":"./data/images/wenda5.jpg",
+			 "type":"来自Android AngularJS Bootstrap",
+			 "answernum":"68个回答",
+			 "quesion":"入门编程学什么语言好？",
+			 "result":"最赞的回答",
+			 "answer":"HTML + CSS + Javascript"
+		 },
+		 {
+			 "src":"./data/images/wenda6.jpg",
+			 "type":"来自PHP",
+			 "answernum":"67个回答",
+			 "quesion":"请问大家最初学编程的梦想是什么？？",
+			 "result":"已采纳回答",
+			 "answer":"挣钱！挣钱！挣钱！！"
+		 },
+		 {
+			 "src":"./data/images/wenda3.jpg",
+			 "type":"来自JAVA",
+			 "answernum":"69个回答",
+			 "quesion":"我现在的情况能找到工作吗？",
+			 "result":"最赞的回答",
+			 "answer":"看到SLQ感觉你有点危险。"
+		 },
+		 {
+			 "src":"./data/images/wenda4.jpg",
+			 "type":"来自C",
+			 "answernum":"57个回答",
+			 "quesion":"我现在上高一学习编程要怎么学？要先学什么?",
+			 "result":"已采纳回答",
+			 "answer":"学泡妞，学什么编程"
+		 },
+		 {
+			 "src":"./data/images/wenda7.jpg",
+			 "type":"来自JavaScript JQuery",
+			 "answernum":"54个回答",
+			 "quesion":"学前端是先学JS还是先学jQuery？",
+			 "result":"已采纳回答",
+			 "answer":"js是语言，jQ是基于js的轻量级框架，学习顺序自然是先学js"
+		 },
+		 {
+			 "src":"./data/images/wenda3.jpg",
+			 "type":"来自JAVA",
+			 "answernum":"44个回答",
+			 "quesion":"【花式填坑第4期】如何成长为合格的Java架构师",
+			 "result":"最赞的回答",
+			 "answer":"老师 学习了Java有段时间了 用java工作也快1年了吧    现在有时候也学习其他的语言"
+		 },
+		 {
+			 "src":"./data/images/wenda8.jpg",
+			 "type":"来自Html/CSS JAVA JavaScript",
+			 "answernum":"45个回答",
+			 "quesion":"【咱们来抽奖吧】程序猿的双11大礼，拿走，不谢",
+			 "result":"最赞的回答",
+			 "answer":"慕女神，/(ㄒoㄒ)/以我现在的基础还不适合看实战课程，但看到活动，还是要支持一下滴(*^__^*) "
+		 },
+		 {
+			 "src":"./data/images/wenda3.jpg",
+			 "type":"来自Html/CSS",
+			 "answernum":"46个回答",
+			 "quesion":"我刚实习，然后公司的里给了我一张网页，让我用HTML做出来，求助！！",
+			 "result":"最赞的回答",
+			 "answer":"你就把这张图片插到这个网页中哈哈哈哈"
+		 }
+	    ]
+}

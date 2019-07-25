@@ -1,0 +1,35 @@
+{
+	"reply":
+		[
+		  {
+			  "src":"./data/images/wenda2.jpg",
+			  "type":"来自C++ PHP",
+			  "answernum":"0个回答",
+			  "quesion":"怎么学前端"
+		  },
+	      {
+	    	  "src":"./data/images/wenda7.jpg",
+	    	  "type":"来自JavaScript Html/CSS",
+	    	  "answernum":"0个回答",
+	    	  "quesion":"学习前端和后端需要多久"
+	      },
+	      {
+	    	  "src":"./data/images/wenda3.jpg",
+	    	  "type":"来自JAVA",
+	    	  "answernum":"0个回答",
+	    	  "quesion":"关于后台图片全路径存入到mysql数据库中），前台通过EL表达式无法显示图片的问题"
+	      },
+	      {
+	    	  "src":"./data/images/wenda5.jpg",
+	    	  "type":"来自Android iOS",
+	    	  "answernum":"0个回答",
+	    	  "quesion":"求apicloud的开发教程视频"
+	      },
+	      {
+	    	  "src":"./data/images/wenda3.jpg",
+	    	  "type":"来自JAVA",
+	    	  "answernum":"0个回答",
+	    	  "quesion":"jsp中无法加载oracle驱动程序"
+	      }
+	    ]
+}

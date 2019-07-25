@@ -1,0 +1,274 @@
+{
+	"pracboxlist":
+		[
+		 {
+			 "src":"./data/images/indexpractice1.jpg",
+		 	 "itemname":"Vue2.5开发去哪儿网App 从零基础入门到实战项目",
+			 "itemlevel":"中级",
+			 "num":"6070",
+			 "pricenum":"￥266"
+		 },
+		 {
+			 "src":"./data/images/indexpractice2.jpg",
+		 	 "itemname":"微信小程序入门与实战 常用组件API开发技巧项目实战",
+			 "itemlevel":"初级",
+			 "num":"18047",
+			 "pricenum":"￥149"
+		 },
+		 {
+			 "src":"./data/images/indexpractice3.jpg",
+		 	 "itemname":"从0开始 独立完成企业级Java电商网站开发(服务端)",
+			 "itemlevel":"中级",
+			 "num":"7543",
+			 "pricenum":"￥348"
+		 },
+		 {
+			 "src":"./data/images/indexpractice4.jpg",
+		 	 "itemname":"前端JavaScript面试技巧",
+			 "itemlevel":"初级",
+			 "num":"3974",
+			 "pricenum":"￥149"
+		 },
+		 {
+			 "src":"./data/images/indexpractice5.jpg",
+		 	 "itemname":"玩转算法与数据结构",
+			 "itemlevel":"中级",
+			 "num":"8342",
+			 "pricenum":"￥166"
+		 }
+		     
+	    ],
+	    "newclass":
+			[
+			 {
+				 "src":"./data/images/indexclass6.jpg",
+			 	 "itemname":"编程必备基础知识 计算机组成原理+操作系统+计算机网络",
+				 "itemlevel":"中级",
+				 "num":"687",
+				 "pricenum":"￥199"
+			 },
+			 {
+				 "src":"./data/images/indexclass7.jpg",
+			 	 "itemname":"Angular8开发拼多多webapp 从基础到项目实战",
+				 "itemlevel":"初级",
+				 "num":"255",
+				 "pricenum":"￥199"
+			 },
+			 {
+				 "src":"./data/images/indexclass8.jpg",
+			 	 "itemname":"Python数据预处理（二）- 清洗文本数据",
+				 "itemlevel":"中级",
+				 "num":"735",
+				 "pricenum":"免费"
+			 },
+			 {
+				 "src":"./data/images/indexclass9.jpg",
+			 	 "itemname":"前端下一代开发语言TypeScript  从基础到axios实战",
+				 "itemlevel":"中级",
+				 "num":"1265",
+				 "pricenum":"￥388"
+			 },
+			 {
+				 "src":"./data/images/indexclass10.jpg",
+			 	 "itemname":"Google老师亲授 TensorFlow2.0 入门到进阶",
+				 "itemlevel":"中级",
+				 "num":"416",
+				 "pricenum":"￥399"
+			 }
+		    ],
+		    "teacherclass":
+		    	[
+		    	 {
+		    		 "src":"./data/images/indexclass6.jpg",
+		    		 "itemname":"FFmpeg音视频核心技术精讲与实战",
+		    		 "itemlevel":"中级",
+		    		 "num":"687",
+					 "pricenum":"￥299"
+		    	 },
+		    	 {
+		    		 "src":"./data/images/indexclass7.jpg",
+		    		 "itemname":"5G时代必备技能 音视频WebRTC实时互动直播技术入门与实战",
+		    		 "itemlevel":"中级",
+		    		 "num":"496",
+					 "pricenum":"￥288"
+		    	 },
+		    	 {
+		    		 "src":"./data/images/indexclass6.jpg",
+		    		 "itemname":"FFmpeg音视频核心技术精讲与实战",
+		    		 "itemlevel":"中级",
+		    		 "num":"687",
+					 "pricenum":"￥299"
+		    	 }
+		        ],
+		    "classlist":
+		    	[
+		    	 {
+		    		 "jobname":"前端工程师",
+		    		 "text":"用户界面必不可少的工程师，实现互联网上你所看到的一切！快速入门IT行业的不二之选！",
+		    		 "times":"4个阶段",
+		    		 "hours":"197小时",
+		    		 "peopelnum":"6068人学习",
+		    		 "src":"./data/images/class1.jpg"
+		    	 },
+		    	 {
+		    		 "jobname":"Java工程师",
+		    		 "text":"在所有软件开发类人才的需求中，对Java工程师的需求达到全部需求量的50%以上！",
+		    		 "times":"4个阶段",
+		    		 "hours":"183小时",
+		    		 "peopelnum":"4580人学习",
+		    		 "src":"./data/images/class2.jpg"
+		    	 },
+		    	 {
+		    		 "jobname":"Python工程师",
+		    		 "text":"首个被纳入中小学教材里的编程语言。智能时代，掌握Python，就是掌握未来！",
+		    		 "times":"4个阶段",
+		    		 "hours":"66小时",
+		    		 "peopelnum":"1662人学习",
+		    		 "src":"./data/images/class3.jpg"
+		    	 },
+		    	 {
+		    		 "jobname":"Android工程师",
+		    		 "text":"5G时代已经来临！万物互联，Android 涉及的行业将越来越广，人才需求量越来越大！",
+		    		 "times":"3个阶段",
+		    		 "hours":"141小时",
+		    		 "peopelnum":"1172人学习",
+		    		 "src":"./data/images/class4.jpg"
+		    	 },
+		    	 {
+		    		 "jobname":"PHP工程师",
+		    		 "text":"不仅可以完成前端页面与后端平台的搭建，并且可以混合开发！打通前端、后端、移动端一步到位！",
+		    		 "times":"3个阶段",
+		    		 "hours":"145小时",
+		    		 "peopelnum":"2438人学习",
+		    		 "src":"./data/images/class5.jpg"
+		    	 }
+		        ],
+		        "classnamelist":
+		        	[
+		        	 {
+		        		"classname1":"前端开发",
+		        		"classhours1":"56门课",
+		        		"classname2":"后端开发",
+		        		"classhours2":"106门课",
+		        		"classname3":"移动开发",
+		        		"classhours3":"56门课"
+		        	 },
+		        	 {
+		        		"classname1":"算法&数学",
+		        		"classhours1":"11门课",
+		        		"classname2":"前沿技术",
+		        		"classhours2":"22门课",
+		        		"classname3":"大数据",
+		        		"classhours3":"56门课"
+		        	 },
+		        	 {
+		        		"classname1":"运维&测试",
+		        		"classhours1":"27门课",
+		        		"classname2":"云计算",
+		        		"classhours2":"101门课",
+		        		"classname3":"大数据库",
+		        		"classhours3":"60门课"
+		        	 },
+		        	 {
+		        		"classname1":"前端开发",
+		        		"classhours1":"56门课",
+		        		"classname2":"后端开发",
+		        		"classhours2":"106门课",
+		        		"classname3":"移动开发",
+		        		"classhours3":"56门课"
+		        	 },
+		        	 {
+		        		"classname1":"前端开发",
+		        		"classhours1":"56门课",
+		        		"classname2":"后端开发",
+		        		"classhours2":"106门课",
+		        		"classname3":"移动开发",
+		        		"classhours3":"56门课"
+		        	 },
+		        	 {
+		        		"classname1":"前端开发",
+		        		"classhours1":"56门课",
+		        		"classname2":"后端开发",
+		        		"classhours2":"106门课",
+		        		"classname3":"移动开发",
+		        		"classhours3":"56门课"
+		        	 }
+		            ],
+		        "practicelist":
+		        	[
+		        	 {
+		        		"src":"./data/images/indexpractice1.jpg" ,
+		        		"itemname":"编程必备基础知识 计算机组成原理+操作系统+计算机网络",
+		        		"itemlevel":"中级",
+		        		"num":"6070",
+		        		"pricenum":"￥268"
+		        	 },
+		        	 {
+		        		"src":"./data/images/indexpractice2.jpg" ,
+		        		"itemname":"毕设神器 Java主流技术栈SSM+SpringBoot商铺系统",
+		        		"itemlevel":"中级",
+		        		"num":"6070",
+		        		"pricenum":"￥265"
+		        	 },
+		        	 {
+		        		"src":"./data/images/indexpractice3.jpg" ,
+		        		"itemname":"前端下一代开发语言TypeScript  从基础到axios实战",
+		        		"itemlevel":"中级",
+		        		"num":"6070",
+		        		"pricenum":"￥366"
+		        	 },
+		        	 {
+		        		"src":"./data/images/indexpractice4.jpg" ,
+		        		"itemname":"SpringCloud  Finchley三版本(M2+RELEASE+SR2)微服务实战",
+		        		"itemlevel":"中级",
+		        		"num":"6070",
+		        		"pricenum":"￥328"
+		        	 },
+		        	 {
+		        		"src":"./data/images/indexpractice5.jpg" ,
+		        		"itemname":"SpringCloud  Finchley三版本(M2+RELEASE+SR2)微服务实战",
+		        		"itemlevel":"中级",
+		        		"num":"6070",
+		        		"pricenum":"￥288"
+		        	 },
+		        	 {
+		        		"src":"./data/images/indexpractice1.jpg" ,
+		        		"itemname":"从基础到实战 手把手带你掌握新版Webpack4.0",
+		        		"itemlevel":"中级",
+		        		"num":"6070",
+		        		"pricenum":"￥299"
+		        	 },
+		        	 {
+		        		"src":"./data/images/indexpractice2.jpg" ,
+		        		"itemname":"Spring Cloud Alibaba微服务从入门到进阶",
+		        		"itemlevel":"中级",
+		        		"num":"6070",
+		        		"pricenum":"￥366"
+		        	 },
+		        	 {
+		        		"src":"./data/images/indexpractice3.jpg" ,
+		        		"itemname":"阿里新零售数据库设计与实战 ",
+		        		"itemlevel":"中级",
+		        		"num":"6070",
+		        		"pricenum":"￥388"
+		        	 },
+		        	 {
+		        		"src":"./data/images/indexpractice4.jpg" ,
+		        		"itemname":"Node.js开发仿知乎服务端 深入理解RESTful API",
+		        		"itemlevel":"中级",
+		        		"num":"6070",
+		        		"pricenum":"￥299"
+		        	 },
+		        	 {
+		        		"src":"./data/images/indexpractice5.jpg" ,
+		        		"itemname":"应用Dubbo框架打造仿猫眼项目 理解微服务核心思想",
+		        		"itemlevel":"中级",
+		        		"num":"6070",
+		        		"pricenum":"￥226"
+		        	 }
+		        	 
+		                        
+		            ]
+		        
+
+}

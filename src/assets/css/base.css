@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+boty,html{
+	background: white;
+	font-size: 16px;
+	/*font-family: "微软雅黑";*/
+}
+ul li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.l{
+	float: left;
+}
+.r{
+	float: right;
+}

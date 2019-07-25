@@ -1,0 +1,32 @@
+{
+	"practices":
+		[
+		{
+			"src1":"./data/images/indexpractice1.jpg",
+			"name":"Vue2.5开发去哪儿网App 从零基础入门到实战项目",
+			"level":"中级",
+			"dot":"·",
+			"src2":"./data/images/gerenzhongxin.png",
+			"num":"6070",
+			"pricenum":"￥266"
+		},
+		{
+			"src1":"./data/images/indexpractice1.jpg",
+			"name":"Vue2.5开发去哪儿网App 从零基础入门到实战项目",
+			"level":"中级",
+			"dot":"·",
+			"src2":"./data/images/gerenzhongxin.png",
+			"num":"6070",
+			"pricenum":"￥266"
+		},
+		{
+			"src1":"./data/images/indexpractice1.jpg",
+			"name":"Vue2.5开发去哪儿网App 从零基础入门到实战项目",
+			"level":"中级",
+			"dot":"·",
+			"src2":"./data/images/gerenzhongxin.png",
+			"num":"6070",
+			"pricenum":"￥266"
+		}
+		]
+}
